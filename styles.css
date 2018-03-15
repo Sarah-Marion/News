@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+  color:#D41407;
+}
+h2.introduction{
+  font-style: italic;
+  color:red;
+}
+p.introduction{
+  font-family: sans-serif;
+}
+img.introduction{
+  height:600px;
+  width:900px;
+}
+body{
+  display:table-cell;
+  vertical-align: middle;
+}
